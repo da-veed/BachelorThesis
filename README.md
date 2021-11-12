@@ -6,26 +6,27 @@ Huge thank you to [Moji Ajele](https://www.linkedin.com/in/mojiajele) and [BNI A
 # Project objective
 Devise a ML model for for predicting who won't be renewing their membership with a precision acceptance score of at least 80% (the performance metric and threshold might be re-evaluated after performing some EDA on the data and determining class balance).
 
-**Extra:** If a probability model has good performance then determine users who are within 30% - 60% chance of renewing. Those users have the biggest potential to be converted from non-renewals to renewals.
+**Extra:** If a probability model meets the performance criteria mentioned above then determine users who are within 30% - 60% chance of renewing. Those users have the biggest potential to be converted from non-renewals to renewals.
 
 # Data
-General facts:
-- Data used PALMS data found in company named *Business Networking International* (BNI)
-- BNI creates local groups of entrepreneurs who form relationships and refer eachother's businesses
-- Company business model: yearly membership subscription
-- BNI groups meet on a weekly basis
+- The model will be based on PALMS data which was shared with me by BNI Alberta South. BNI creates local groups of entrepreneurs who form relationships and refer eachother's businesses
+- BNI business model: yearly membership subscription
 - The data isn't disclosed in this repository due to an agreement on preserving BNI members' privacy.
 - All data has been anonymized
 
 ## Datasets: PALMS
 - Data from 2015-01 to 2021-10 in a monthly format (82 .csv files)
-- Each months PALMS data contains information members' and chapters' performance
+- Each months PALMS data contains information about member performance
 
 Here are a couple of links with a legend/explanation of the PALMS data: [Link 1](https://support.bniconnect.com/hc/en-us/articles/219067027-Summary-PALMS-Report) and [Link 2](https://bniblog.co.nz/bni-core-values/accountability/palms-for-beginners/).
 
 
 ## Dataset: database_data
-General information about all members. Specifically useful information here are: member drop date, member renewal date, 
+General information about all members. Specifically useful information here are: member drop date, member renewal date.
+
+## Dataset: dropped_members
+Contains information when a given member was dropped from the system (his subscription was cancelled).
+
 
 # Project plan
 1. [x] 1. Prepare for thesis
