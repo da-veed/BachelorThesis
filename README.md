@@ -39,26 +39,23 @@ Contains information when a given member was dropped from the system (his subscr
    2. [x] Check control sums to ensure PALMS data hasn't been duplicated
    3. [x] Concatenate PALMS data
    4. [x] Create a master dataset - merge
-   5. [x] Ensure data integrity:
-      1. [x] Fix member records with two or less months with negative year of membership
-      2. [x] Fix member records with more than two months with negative year of membership
-      3. [x] Remove duplicate records
-   6. [ ] Aggregate 9-month data
+   5. [x] Ensure data integrity
+   6. [x] Aggregate 9-month data
    7. [ ] Re-merge data which wasn't supposed to be aggregated
-   8. [ ] Label: renewing/not renewing
-3. [ ] 3. Exploratory Data Analysis
-   1. [ ] Feature engineering:
+   8. [ ]  Feature engineering:
       1. [ ] Seat popularity rate
       2. [ ] Chapter retention rate
       3. [ ] Chapter size
-   2. [ ] Feature selection
-   3. [ ] Analyze:
+   9. [ ] Label: renewing/not renewing
+3. [ ] 3. Exploratory Data Analysis
+   1. [ ] Analyze:
       1. [ ] Summary Statistics
       2. [ ] Outliers
       3. [ ] Normality
       4. [ ] Visual representations
-   4. [ ] Scale
-   5. [ ] [Extra] Perform data Analysis:
+   2. [ ] Feature selection
+   3. [ ] Scale
+   4. [ ] [Extra] Perform data Analysis:
       1. [ ] Which features are the most indicative if the member will or won't renew?
       2. [ ] Which seats are the most profitable?
       3. [ ] How does membership length affect renewal probability?
