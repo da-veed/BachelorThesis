@@ -41,29 +41,30 @@ Contains information when a given member was dropped from the system (his subscr
    4. [x] Create a master dataset - merge
    5. [x] Ensure data integrity
    6. [x] Aggregate 9-month data
-   7. [ ] Re-merge data which wasn't supposed to be aggregated
-   8. [ ]  Feature engineering:
-      1. [ ] Seat popularity rate
-      2. [ ] Chapter retention rate
-      3. [ ] Chapter size
+   7. [x] Re-merge data which wasn't supposed to be aggregated
+   8. [x]  Feature engineering:
+      1. [x] Chapter size
+      2. [x] Chapter retention rate
+      3. [x] Chapter growth rate
+      4. [x] Seat popularity rate
    9. [ ] Label: renewing/not renewing
 3. [ ] 3. Exploratory Data Analysis
-   1. [ ] Analyze:
+   1. [ ] Further cleaning (check if aggregated data makes sense)
+   2. [ ] Analyze:
       1. [ ] Summary Statistics
       2. [ ] Outliers
       3. [ ] Normality
       4. [ ] Visual representations
-   2. [ ] Feature selection
-   3. [ ] Scale
-   4. [ ] [Extra] Perform data Analysis:
+   3. [ ] Feature multiplication
+   4. [ ] Feature selection
+   5. [ ] Scale?
+   6. [ ] [Extra] Perform data Analysis:
       1. [ ] Which features are the most indicative if the member will or won't renew?
-      2. [ ] Which seats are the most profitable?
-      3. [ ] How does membership length affect renewal probability?
+      2. [ ] How does membership length affect renewal probability?
 4. [ ] 4. Create ML models
    1. [ ] Split data: train, validate, test
    2. [ ] Hyperparameter tuning (cross-validate & plot)
    3. [ ] Learning curve
-   4. [ ] Power analysis
-   5. [ ] Test results
+   4. [ ] Test results
 5. [ ] 5. Meet with promotor to discuss results and get feedback
 6. [ ] 6. Write LaTeX thesis 
