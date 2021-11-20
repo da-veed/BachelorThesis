@@ -34,7 +34,7 @@ Contains information when a given member was dropped from the system (his subscr
    2. [x] Business objective
    3. [x] Create a cleaning log
    4. [x] Decide on metric and threshold of choice
-2. [ ] 2. Prepare & clean data (*"cleaning_log.md"*)
+2. [x] 2. Prepare & clean data (*"cleaning_log.md"*)
    1. [x] Anonymize data
    2. [x] Check control sums to ensure PALMS data hasn't been duplicated
    3. [x] Concatenate PALMS data
@@ -47,7 +47,7 @@ Contains information when a given member was dropped from the system (his subscr
       2. [x] Chapter retention rate
       3. [x] Chapter growth rate
       4. [x] Seat popularity rate
-   9. [ ] Label: renewing/not renewing
+   9. [x] Label: renewing/not renewing
 3. [ ] 3. Exploratory Data Analysis
    1. [ ] Further cleaning (check if aggregated data makes sense)
    2. [ ] Analyze:
