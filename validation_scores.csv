@@ -1,8 +1,9 @@
-﻿Step #,Step,Accuracy,Precision,F1
-0,Literature baselines,,,
-1,Baseline - bad data removed,,,
-2,Hyperparameter tuning,,,
-3,Scaled data,,,
-4,Feature selection,,,
-5,Added custom features,,,
-6,Feature multiplication,,,
+﻿Step #,Step,Model,Accuracy,Recall,Precision,F1,AUC,Score improvement (F1)
+0,Literature baseline,Random Forest,78.04,78.68,77.54,77.91,82,
+1,Baseline - bad data removed,,,,,,,
+2,Hyperparameter tuning,,,,,,,
+3,Balance training dataset,,,,,,,
+4,Scaled data,,,,,,,
+5,Feature selection,,,,,,,
+6,Feature multiplication,,,,,,,
+7,Added custom features,,,,,,,
