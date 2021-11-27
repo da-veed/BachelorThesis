@@ -1,5 +1,5 @@
 ﻿Step #,Step,Model,Accuracy,Recall,Precision,F1,AUC,Score improvement (F1)
-0,Literature baseline,Random Forest,78.04,78.68,77.54,77.91,82,
+0,Literature baseline,Random Forest (CP_ALL_ChurnPredictionSystemML.pdf),78.04,78.68,77.54,77.91,82,
 1,Baseline - bad data removed,,,,,,,
 2,Hyperparameter tuning,,,,,,,
 3,Balance training dataset,,,,,,,
