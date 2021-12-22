@@ -4,7 +4,7 @@ This repository holds data and code for my Bachelor thesis: *"Exploring machine 
 Huge thank you to [Moji Ajele](https://www.linkedin.com/in/mojiajele) and [BNI Alberta South](https://bnisalberta.ca) for making my thesis possible. Highly recommend for anyone who owns a small/medium business to look into BNI as a networking and advertising opportunity.
 
 # Project objective
-Devise a ML model for for predicting who won't be renewing their membership with a precision acceptance score of at least 80% (the performance metric and threshold might be re-evaluated after performing some EDA on the data and determining class balance).
+Devise a ML model for for predicting who won't be renewing their membership with a ROC AuC acceptance score of at least 80%.
 
 **Extra:** If a probability model meets the performance criteria mentioned above then determine users who are within 30% - 60% chance of renewing. Those users have the biggest potential to be converted from non-renewals to renewals.
 
@@ -49,20 +49,20 @@ Contains information when a given member was dropped from the system (his subscr
       4. [x] Seat popularity rate
    9. [x] Label: renewing/not renewing
 3. [ ] 3. Exploratory Data Analysis
-   1. [ ] Further cleaning (check if aggregated data makes sense)
-   2. [ ] Analyze:
-      1. [ ] Summary Statistics
-      2. [ ] Outliers
-      3. [ ] Normality
-      4. [ ] Visual representations
-   3. [ ] Feature multiplication
+   1. [x] Further cleaning (check if aggregated data makes sense)
+   2. [x] Analyze:
+      1. [x] Summary Statistics
+      2. [x] Outliers
+      3. [x] Normality
+      4. [x] Visual representations
+   3. [x] Feature multiplication
    4. [ ] Feature selection
-   5. [ ] Scale?
+   5. [x] Scale?
    6. [ ] [Extra] Perform data Analysis:
       1. [ ] Which features are the most indicative if the member will or won't renew?
       2. [ ] How does membership length affect renewal probability?
 4. [ ] 4. Create ML models
-   1. [ ] Split data: train, validate, test
+   1. [x] Split data: train, validate, test
    2. [ ] Hyperparameter tuning (cross-validate & plot)
    3. [ ] Learning curve
    4. [ ] Test results
