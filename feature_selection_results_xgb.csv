@@ -1,0 +1,20 @@
+,nr_features,list_features,auc
+0,21,"['P2', 'A_by_total', 'P_by_A', 'P_tim_TYFCB', 'year_tim_retention', 'RGO', '1-2-1', 'RGI', 'P_tim_popularity', 'CEU', 'chapter_size', 'P2_tim_V', 'P_tim_retention', 'P_tim_growth', 'total_meetings', 'P_by_S', 'L', 'P_by_M', 'RRI', 'RRO', 'M_by_total']",0.6729288499025341
+1,20,"[['P2', 'A_by_total', 'P_by_A', 'P_tim_TYFCB', 'year_tim_retention', 'RGO', '1-2-1', 'RGI', 'P_tim_popularity', 'CEU', 'chapter_size', 'P2_tim_V', 'P_tim_retention', 'P_tim_growth', 'total_meetings', 'P_by_S', 'L', 'P_by_M', 'RRI', 'RRO']]",0.6966374269005847
+2,19,"[['P2', 'A_by_total', 'P_tim_TYFCB', '1-2-1', 'RGI', 'RGO', 'P_by_A', 'year_tim_retention', 'total_meetings', 'P2_tim_V', 'chapter_size', 'P_tim_popularity', 'CEU', 'P_tim_retention', 'RRI', 'L', 'P_by_M', 'P_tim_growth', 'P_by_S']]",0.6511939571150098
+3,18,"[['P2', 'L', 'year_tim_retention', 'A_by_total', 'RGO', 'P_by_A', 'P_tim_popularity', 'P_tim_TYFCB', 'P_tim_retention', 'RRI', 'RGI', '1-2-1', 'P_by_S', 'CEU', 'chapter_size', 'P2_tim_V', 'total_meetings', 'P_tim_growth']]",0.6650828460038987
+4,17,"[['P2', 'P_tim_TYFCB', 'RGO', 'year_tim_retention', 'A_by_total', 'RGI', 'L', 'P_by_A', '1-2-1', 'P_tim_popularity', 'P2_tim_V', 'P_tim_retention', 'RRI', 'chapter_size', 'CEU', 'total_meetings', 'P_tim_growth']]",0.6769493177387915
+5,16,"[['P2', 'RGI', 'P_tim_TYFCB', 'A_by_total', 'year_tim_retention', 'P2_tim_V', 'RGO', 'P_tim_popularity', 'P_tim_retention', 'chapter_size', 'P_by_A', '1-2-1', 'L', 'P_tim_growth', 'total_meetings', 'RRI']]",0.6749269005847953
+6,15,"[['P2', 'P_tim_TYFCB', 'L', 'A_by_total', 'RGI', 'year_tim_retention', 'RGO', 'P_by_A', 'P_tim_retention', 'P_tim_popularity', 'P2_tim_V', '1-2-1', 'chapter_size', 'RRI', 'total_meetings']]",0.6724658869395712
+7,14,"[['P2', 'L', 'A_by_total', 'P_tim_TYFCB', 'RGO', 'year_tim_retention', 'RGI', 'P_tim_retention', 'P_tim_popularity', '1-2-1', 'chapter_size', 'RRI', 'P_by_A', 'total_meetings']]",0.6884259259259259
+8,13,"[['P2', 'year_tim_retention', 'P_tim_TYFCB', 'RGO', 'RGI', 'P_by_A', 'P_tim_retention', 'A_by_total', 'P_tim_popularity', 'L', '1-2-1', 'chapter_size', 'RRI']]",0.662061403508772
+9,12,"[['P2', 'A_by_total', 'P_tim_TYFCB', 'L', 'year_tim_retention', 'P_tim_retention', 'P_tim_popularity', 'RGO', '1-2-1', 'RGI', 'P_by_A', 'RRI']]",0.6679093567251462
+10,11,"[['P2', 'A_by_total', 'P_by_A', 'P_tim_TYFCB', 'RGI', 'RGO', 'year_tim_retention', 'P_tim_popularity', 'P_tim_retention', '1-2-1', 'L']]",0.6754385964912281
+11,10,"[['P2', 'A_by_total', 'P_tim_TYFCB', 'L', 'year_tim_retention', 'P_by_A', 'RGI', 'P_tim_popularity', 'RGO', 'P_tim_retention']]",0.6948343079922028
+12,9,"[['P2', 'A_by_total', 'P_tim_TYFCB', 'P_tim_popularity', 'year_tim_retention', 'RGI', 'P_tim_retention', 'P_by_A', 'RGO']]",0.6597709551656921
+13,8,"[['P2', 'A_by_total', 'P_tim_popularity', 'RGO', 'P_by_A', 'year_tim_retention', 'P_tim_TYFCB', 'RGI']]",0.6378898635477582
+14,7,"[['P2', 'P_by_A', 'P_tim_TYFCB', 'year_tim_retention', 'P_tim_popularity', 'RGO', 'A_by_total']]",0.6542884990253411
+15,6,"[['P2', 'P_tim_TYFCB', 'P_by_A', 'A_by_total', 'P_tim_popularity', 'year_tim_retention']]",0.6550925925925926
+16,5,"[['P2', 'P_by_A', 'P_tim_TYFCB', 'year_tim_retention', 'P_tim_popularity']]",0.6447124756335283
+17,4,"[['P2', 'P_tim_TYFCB', 'P_tim_popularity', 'year_tim_retention']]",0.6395224171539962
+18,3,"[['P2', 'P_tim_TYFCB', 'P_tim_popularity']]",0.609856237816764

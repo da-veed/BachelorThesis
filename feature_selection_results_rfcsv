@@ -1,0 +1,2 @@
+,nr_features,list_features,auc
+0,21,"['P_tim_TYFCB', 'P_tim_retention', 'P_tim_popularity', 'P_tim_growth', '1-2-1', 'P_by_A', 'RGO', 'RRO', 'chapter_size', 'P2_tim_V', 'RGI', 'CEU', 'A_by_total', 'membership_year_tim_', 'P_by_S', 'RRI', 'P', 'P_by_M', 'total_meetings', 'L', 'M_by_total']",0.7126827485380116

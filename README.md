@@ -48,7 +48,7 @@ Contains information when a given member was dropped from the system (his subscr
       3. [x] Chapter growth rate
       4. [x] Seat popularity rate
    9. [x] Label: renewing/not renewing
-3. [ ] 3. Exploratory Data Analysis
+3. [x] 3. Exploratory Data Analysis
    1. [x] Further cleaning (check if aggregated data makes sense)
    2. [x] Analyze:
       1. [x] Summary Statistics
@@ -56,15 +56,14 @@ Contains information when a given member was dropped from the system (his subscr
       3. [x] Normality
       4. [x] Visual representations
    3. [x] Feature multiplication
-   4. [ ] Feature selection
+   4. [x] Feature selection
    5. [x] Scale?
    6. [ ] [Extra] Perform data Analysis:
       1. [ ] Which features are the most indicative if the member will or won't renew?
       2. [ ] How does membership length affect renewal probability?
-4. [ ] 4. Create ML models
+4. [x] 4. Create ML models
    1. [x] Split data: train, validate, test
-   2. [ ] Hyperparameter tuning (cross-validate & plot)
-   3. [ ] Learning curve
-   4. [ ] Test results
+   2. [x] Hyperparameter tuning (cross-validate & plot)
+   3. [x] Test results
 5. [ ] 5. Meet with promotor to discuss results and get feedback
 6. [ ] 6. Write LaTeX thesis 
