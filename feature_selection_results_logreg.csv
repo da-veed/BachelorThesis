@@ -1,20 +1,20 @@
 ,nr_features,list_features,auc
-0,21,"['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'P_by_S', 'P_tim_TYFCB', 'RGO', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'RRO', 'CEU', 'P_tim_growth', 'P_tim_retention']",0.6999269005847952
-1,20,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'P_by_S', 'P_tim_TYFCB', 'RGO', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'RRO', 'CEU', 'P_tim_growth']]",0.7001949317738791
-2,19,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'P_by_S', 'P_tim_TYFCB', 'RGO', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'RRO', 'CEU']]",0.7001461988304094
-3,18,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'P_by_S', 'P_tim_TYFCB', 'RGO', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'RRO']]",0.6996345029239767
-4,17,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A']]",0.6988304093567251
-5,16,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'RGO', 'P_by_S', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI']]",0.6994639376218323
-6,15,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P2', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'RGO', 'P_tim_TYFCB', 'P_by_S', 'RGI', 'total_meetings', 'L', 'P2_tim_V']]",0.6972709551656919
-7,14,"[['A_by_total', 'year_tim_retention', 'P2', 'P_tim_popularity', 'chapter_size', 'M_by_total', 'P_by_M', '1-2-1', 'RGO', 'RGI', 'P_by_S', 'P_tim_TYFCB', 'total_meetings', 'L']]",0.699561403508772
-8,13,"[['A_by_total', 'year_tim_retention', 'P2', 'P_tim_popularity', 'chapter_size', '1-2-1', 'RGO', 'M_by_total', 'P_by_M', 'RGI', 'P_tim_TYFCB', 'P_by_S', 'total_meetings']]",0.6962962962962963
-9,12,"[['A_by_total', 'year_tim_retention', 'M_by_total', 'P_tim_popularity', 'P_by_S', 'total_meetings', 'chapter_size', 'RGO', '1-2-1', 'P_by_M', 'RGI', 'P_tim_TYFCB']]",0.695906432748538
-10,11,"[['A_by_total', 'year_tim_retention', 'M_by_total', 'P_by_S', 'P_tim_popularity', 'total_meetings', 'chapter_size', '1-2-1', 'RGO', 'RGI', 'P_by_M']]",0.6983918128654971
-11,10,"[['A_by_total', 'year_tim_retention', 'M_by_total', 'P_by_S', 'P_tim_popularity', 'total_meetings', 'RGO', 'chapter_size', '1-2-1', 'RGI']]",0.7001218323586745
-12,9,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P_by_S', 'RGO', 'total_meetings', 'chapter_size', '1-2-1', 'RGI']]",0.6943226120857701
-13,8,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P_by_S', 'RGO', 'total_meetings', '1-2-1', 'chapter_size']]",0.692738791423002
-14,7,"[['A_by_total', 'year_tim_retention', 'P_tim_popularity', 'P_by_S', 'total_meetings', 'RGO', '1-2-1']]",0.6883040935672515
-15,6,"[['A_by_total', 'year_tim_retention', 'RGO', '1-2-1', 'P_by_S', 'total_meetings']]",0.7034844054580897
-16,5,"[['A_by_total', 'year_tim_retention', 'RGO', 'P_by_S', 'total_meetings']]",0.7093810916179337
-17,4,"[['A_by_total', 'RGO', 'year_tim_retention', 'P_by_S']]",0.7059819688109162
-18,3,"[['A_by_total', 'RGO', 'year_tim_retention']]",0.7223196881091617
+0,21,"['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'P_tim_retention', 'RRO', 'P_tim_growth', 'CEU']",0.7002436647173488
+1,20,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'P_tim_retention', 'RRO', 'P_tim_growth']]",0.6998538011695907
+2,19,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_by_A', 'P_tim_retention', 'RRO']]",0.6996345029239768
+3,18,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_tim_retention', 'P_by_A']]",0.6991959064327485
+4,17,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI', 'P_tim_retention']]",0.6990253411306044
+5,16,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V', 'RRI']]",0.7005116959064328
+6,15,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGO', 'P_tim_TYFCB', 'RGI', 'total_meetings', 'L', 'P2_tim_V']]",0.6986842105263158
+7,14,"[['A', 'year_of_membership', 'P_tim_popularity', 'P2', 'chapter_size', 'M', 'P_by_M', '1-2-1', 'P_by_S', 'RGI', 'RGO', 'P_tim_TYFCB', 'total_meetings', 'L']]",0.7010721247563353
+8,13,"[['A', 'year_of_membership', 'P2', 'P_tim_popularity', 'chapter_size', '1-2-1', 'M', 'P_by_M', 'RGO', 'RGI', 'P_by_S', 'P_tim_TYFCB', 'total_meetings']]",0.6974658869395711
+9,12,"[['A', 'year_of_membership', 'M', 'P_tim_popularity', 'P_by_S', 'total_meetings', 'chapter_size', '1-2-1', 'RGO', 'P_by_M', 'RGI', 'P_tim_TYFCB']]",0.6977582846003898
+10,11,"[['A', 'year_of_membership', 'M', 'P_by_S', 'P_tim_popularity', 'total_meetings', 'chapter_size', '1-2-1', 'RGO', 'P_by_M', 'RGI']]",0.7005604288499026
+11,10,"[['A', 'year_of_membership', 'M', 'P_by_S', 'P_tim_popularity', 'total_meetings', 'RGO', 'chapter_size', '1-2-1', 'RGI']]",0.7020955165692008
+12,9,"[['A', 'year_of_membership', 'P_tim_popularity', 'P_by_S', 'total_meetings', 'RGO', 'chapter_size', '1-2-1', 'RGI']]",0.6960526315789475
+13,8,"[['A', 'year_of_membership', 'P_tim_popularity', 'P_by_S', 'total_meetings', 'RGO', '1-2-1', 'chapter_size']]",0.6938352826510721
+14,7,"[['A', 'year_of_membership', 'P_by_S', 'P_tim_popularity', 'total_meetings', '1-2-1', 'chapter_size']]",0.6839912280701755
+15,6,"[['A', 'year_of_membership', '1-2-1', 'P_tim_popularity', 'total_meetings', 'chapter_size']]",0.6880847953216374
+16,5,"[['A', 'year_of_membership', '1-2-1', 'P_tim_popularity', 'total_meetings']]",0.6813840155945419
+17,4,"[['A', 'year_of_membership', '1-2-1', 'total_meetings']]",0.700791910331384
+18,3,"[['A', 'year_of_membership', '1-2-1']]",0.6925316764132553
