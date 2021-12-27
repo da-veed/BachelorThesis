@@ -55,15 +55,19 @@ Contains information when a given member was dropped from the system (his subscr
       2. [x] Outliers
       3. [x] Normality
       4. [x] Visual representations
-   3. [x] Feature multiplication
-   4. [x] Feature selection
-   5. [x] Scale?
-   6. [ ] [Extra] Perform data Analysis:
-      1. [ ] Which features are the most indicative if the member will or won't renew?
-      2. [ ] How does membership length affect renewal probability?
-4. [x] 4. Create ML models
-   1. [x] Split data: train, validate, test
-   2. [x] Hyperparameter tuning (cross-validate & plot)
-   3. [x] Test results
-5. [ ] 5. Meet with promotor to discuss results and get feedback
-6. [ ] 6. Write LaTeX thesis 
+   3. [x] [Extra] Perform data Analysis:
+      1. [x] Which features are the most indicative if the member will or won't renew?
+      2. [x] How does membership length affect renewal probability?
+1. [x] 4. Create ML models
+   1. [x] Train-test split
+   2. [x] Get scores:
+      1. [x] Baseline - bad data removed
+      2. [x] Scaled data
+      3. [x] Balance training dataset
+      4. [x] Re-add custom features (Project plan 2.8.)
+      5. [x] Feature multiplication
+      6. [x] Feature selection
+      7. [x] Hyperparameter tuning (cross-validate & plot)
+   3. [x] Compare results
+2. [ ] 5. Meet with promotor to discuss results and get feedback
+3. [ ] 6. Write LaTeX thesis 
