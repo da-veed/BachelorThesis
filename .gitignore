@@ -1,4 +1,4 @@
-data
+data/
+catboost_info/
 anonymize_data.ipynb
 .ipynb_checkpoints/
-catboost_info
