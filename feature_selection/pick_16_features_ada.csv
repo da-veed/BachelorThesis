@@ -1,0 +1,17 @@
+,feature_importance,feature_name
+1,0.12,P_tim_TYFCB
+0,0.1,P_tim_popularity
+2,0.1,P_tim_retention
+6,0.08,P2_tim_V
+3,0.06,year_of_membership
+4,0.06,P_by_M
+5,0.06,RRI
+7,0.06,P2
+13,0.06,P_by_S
+14,0.06,CEU
+8,0.04,1-2-1
+9,0.04,RGI
+10,0.04,RGO
+11,0.04,chapter_size
+12,0.04,RRO
+15,0.04,L
