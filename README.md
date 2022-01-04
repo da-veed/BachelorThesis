@@ -4,7 +4,7 @@ This repository holds data and code for my Bachelor thesis: *"Exploring machine 
 Huge thank you to [Moji Ajele](https://www.linkedin.com/in/mojiajele) and [BNI Alberta South](https://bnisalberta.ca) for making my thesis possible. Highly recommend for anyone who owns a small/medium business to look into BNI as a networking and advertising opportunity.
 
 # Project objective
-Devise a ML model for for predicting who won't be renewing their membership with a ROC AuC acceptance score of at least 80%.
+Devise a ML model for predicting who won't be renewing their membership with a ROC AuC acceptance score of at least 80%.
 
 **Extra:** If a probability model meets the performance criteria mentioned above then determine users who are within 30% - 60% chance of renewing. Those users have the biggest potential to be converted from non-renewals to renewals.
 
@@ -69,5 +69,5 @@ Contains information when a given member was dropped from the system (his subscr
       6. [x] Feature selection
       7. [x] Hyperparameter tuning (cross-validate & plot)
    3. [x] Compare results
-2. [ ] 5. Meet with promotor to discuss results and get feedback
+2. [x] 5. Meet with promotor to discuss results and get feedback
 3. [ ] 6. Write LaTeX thesis 
