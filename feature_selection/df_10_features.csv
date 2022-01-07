@@ -1,0 +1,11 @@
+,LogReg,RF,XGBoost,CatBoost,AdaBoost
+0,A,P_tim_TYFCB,P2,P_tim_popularity,P_tim_TYFCB
+1,year_of_membership,P_tim_retention,RGO,P_tim_retention,P_tim_popularity
+2,M,P_tim_popularity,P_tim_TYFCB,P_by_A,P_tim_retention
+3,P_by_S,P_by_A,P_tim_popularity,P_tim_TYFCB,P_by_M
+4,P_tim_popularity,1-2-1,RGI,chapter_ID,RRI
+5,total_meetings,P_tim_growth,1-2-1,1-2-1,1-2-1
+6,RGO,RGO,P_by_A,P2_tim_V,P2
+7,chapter_size,RRO,chapter_size,RGO,year_of_membership
+8,1-2-1,CEU,P_tim_retention,RGI,P_by_S
+9,RGI,chapter_size,year_of_membership,P_tim_growth,P2_tim_V
