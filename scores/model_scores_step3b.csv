@@ -1,0 +1,4 @@
+Model name,Strategy number,Negative class count (0s),Positive class count (1s),auc
+Logistic Regression,1,1005,537,0.7011
+Naive Bayes,2,1215,1215,0.6901
+Naive Bayes,3,1034,850,0.6899

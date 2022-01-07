@@ -68,6 +68,7 @@ Contains information when a given member was dropped from the system (his subscr
       5. [x] Feature multiplication
       6. [x] Feature selection
       7. [x] Hyperparameter tuning (cross-validate & plot)
+      8. [x] Probability calibration
    3. [x] Compare results
 2. [x] 5. Meet with promotor to discuss results and get feedback
 3. [ ] 6. Write LaTeX thesis 
