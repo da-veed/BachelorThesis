@@ -71,4 +71,4 @@ Contains information when a given member was dropped from the system (his subscr
       8. [x] Probability calibration
    3. [x] Compare results
 2. [x] 5. Meet with promotor to discuss results and get feedback
-3. [ ] 6. Write LaTeX thesis 
+3. [x] 6. Write LaTeX thesis 
