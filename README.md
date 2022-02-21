@@ -6,7 +6,8 @@ Huge thank you to [Moji Ajele](https://www.linkedin.com/in/mojiajele) and [BNI A
 # Project objective
 Devise a ML model for predicting who won't be renewing their membership with a ROC AuC acceptance score of at least 80%.
 
-**Extra:** If a probability model meets the performance criteria mentioned above then determine users who are within 30% - 60% chance of renewing. Those users have the biggest potential to be converted from non-renewals to renewals.
+# Final Model
+The final model has been stored as "_xgboost_final_model.sav" but it can only be utlized if one has access to appropriately formatted data. The code for storing and loading the model can be found in the "data_model_final.ipynb" jupyter notebook.
 
 # Data
 - The model will be based on PALMS data which was shared with me by BNI Alberta South. BNI creates local groups of entrepreneurs who form relationships and refer eachother's businesses
